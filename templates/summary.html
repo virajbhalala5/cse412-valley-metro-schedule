@@ -1,0 +1,9 @@
+{% extends "base.html" %}{% block body %}
+<h1>Line summary</h1><p class="sub">How much service each line runs on a given day.</p>
+<div class="card"><form class="inline" method="get"><label>Date<input type="date" name="date" value="{{ day }}"></label><button>Show</button></form></div>
+<h2>{{ day.strftime('%A %b %d, %Y') }}</h2>
+{% if rows %}<table><tr><th>Line</th><th>Trips</th><th>Stations</th><th>First departure</th><th>Last departure</th></tr>
+{% for r in rows %}<tr><td><span class="pill" style="background:#{{ r.color }}">{{ r.line }}</span> {{ r.long_name }}</td>
+<td>{{ r.trips }}</td><td>{{ r.stations }}</td><td>{{ r.first_dep|hhmm }}</td><td>{{ r.last_dep|hhmm }}</td></tr>{% endfor %}</table>
+<p class="note">Times past 24:00 are after midnight (for example 25:10 is 1:10 AM).</p>
+{% else %}<div class="card">No service on that date.</div>{% endif %}{% endblock %}

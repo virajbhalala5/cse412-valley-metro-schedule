@@ -1,0 +1,4 @@
+route_id,short_name,long_name,mode,color
+A,A,Valley Metro Rail A Line,rail,1E8ECD
+B,B,Valley Metro Rail B Line,rail,B76912
+S,S,Valley Metro Streetcar,rail,6D8932

@@ -1,0 +1,13 @@
+{% extends "base.html" %}{% block body %}
+<h1>Valley Metro Light Rail Schedules</h1>
+<p class="sub">Schedule data for the A Line, B Line and S Line streetcar, stored in PostgreSQL.</p>
+<div class="grid">
+{% for k,v in [('Lines',counts.routes),('Stations',counts.stations),('Trips',counts.trips),('Stop times',counts.stop_times)] %}
+<div class="card stat"><b>{{ '{:,}'.format(v) }}</b><span>{{ k }}</span></div>{% endfor %}</div>
+<h2>Lines</h2>
+<div class="card"><table><tr><th>Line</th><th>Name</th></tr>
+{% for r in routes %}<tr><td><span class="pill" style="background:#{{ r.color }}">{{ r.short_name }}</span></td>
+<td>{{ r.long_name }} <a class="note" href="{{ url_for('trips', route=r.route_id) }}">view trips</a></td></tr>{% endfor %}</table></div>
+<div class="row"><a class="btn" href="{{ url_for('departures') }}">Find next trains</a>
+<a class="btn ghost" href="{{ url_for('trips') }}">Browse and manage trips</a></div>
+{% endblock %}

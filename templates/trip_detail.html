@@ -1,0 +1,9 @@
+{% extends "base.html" %}{% block body %}
+<h1>Trip {{ trip.trip_id }}</h1>
+<p class="sub">{{ trip.short_name }} Line toward {{ trip.headsign }} &middot; service {{ trip.service_id }} &middot; direction {{ trip.direction }}</p>
+{% if user %}<div class="row" style="margin-bottom:14px"><a class="btn" href="{{ url_for('trip_edit', trip_id=trip.trip_id) }}">Edit</a>
+<form method="post" action="{{ url_for('trip_delete', trip_id=trip.trip_id) }}" onsubmit="return confirm('Delete this trip and all its stop times?')">
+<input type="hidden" name="csrf" value="{{ csrf }}"><button class="danger">Delete</button></form></div>{% endif %}
+<table><tr><th>#</th><th>Station</th><th>Arrives</th><th>Departs</th></tr>
+{% for s in stops %}<tr><td>{{ s.stop_sequence }}</td><td>{{ s.name }}</td><td>{{ s.arrival_time|hhmm }}</td><td>{{ s.departure_time|hhmm }}</td></tr>{% endfor %}</table>
+<p><a href="{{ url_for('trips') }}">&larr; All trips</a></p>{% endblock %}

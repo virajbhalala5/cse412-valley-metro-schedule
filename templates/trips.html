@@ -1,0 +1,14 @@
+{% extends "base.html" %}{% block body %}
+<h1>Trips</h1><p class="sub">{{ '{:,}'.format(total) }} trips</p>
+<div class="card"><form class="inline" method="get">
+<label>Line<select name="route"><option value="">All</option>
+{% for r in routes %}<option value="{{ r.route_id }}" {{ 'selected' if r.route_id==route }}>{{ r.short_name }}</option>{% endfor %}</select></label>
+<label>Search<input name="q" value="{{ term }}" placeholder="headsign or trip id"></label>
+<button>Filter</button>{% if user %}<a class="btn ghost" href="{{ url_for('trip_new') }}">+ Add trip</a>{% endif %}</form></div>
+<table><tr><th>Trip</th><th>Line</th><th>Toward</th><th>Service</th><th>Starts</th></tr>
+{% for t in rows %}<tr><td><a href="{{ url_for('trip_detail', trip_id=t.trip_id) }}">{{ t.trip_id }}</a></td>
+<td><span class="pill" style="background:#{{ t.color }}">{{ t.short_name }}</span></td><td>{{ t.headsign }}</td>
+<td>{{ t.service_id }}</td><td>{{ t.start_time|hhmm }}</td></tr>{% endfor %}</table>
+<div class="pager">{% if page>1 %}<a href="{{ url_for('trips', route=route, q=term, page=page-1) }}">&larr; Prev</a>{% endif %}
+<span class="note">Page {{ page }} of {{ pages }}</span>
+{% if page<pages %}<a href="{{ url_for('trips', route=route, q=term, page=page+1) }}">Next &rarr;</a>{% endif %}</div>{% endblock %}

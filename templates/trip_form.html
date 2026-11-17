@@ -1,0 +1,31 @@
+{% extends "base.html" %}{% block body %}
+{% if mode=='new' %}
+<h1>Add a trip</h1><p class="sub">Create a new trip and its stops. Leave unused stop rows empty.</p>
+<form method="post" class="card" style="display:grid;gap:12px"><input type="hidden" name="csrf" value="{{ csrf }}">
+<div class="row">
+<label>Trip ID<input name="trip_id" required value="{{ trip.get('trip_id','') }}" placeholder="HOL-0002"></label>
+<label>Line<select name="route_id">{% for r in routes %}<option value="{{ r.route_id }}" {{ 'selected' if trip.get('route_id')==r.route_id }}>{{ r.short_name }}</option>{% endfor %}</select></label>
+<label>Service days<select name="service_id">{% for s in services %}<option {{ 'selected' if trip.get('service_id')==s.service_id }}>{{ s.service_id }}</option>{% endfor %}</select></label>
+<label>Direction<select name="direction"><option value="0">0</option><option value="1">1</option></select></label>
+<label>Toward (headsign)<input name="headsign" value="{{ trip.get('headsign','') }}"></label></div>
+<h2 style="margin:6px 0">Stops</h2>
+{% for i in range(1,7) %}<div class="stoprow"><span class="note" style="padding-top:9px">{{ i }}</span>
+<select name="station"><option value="">(none)</option>{% for s in stations %}<option value="{{ s.station_id }}">{{ s.name }}</option>{% endfor %}</select>
+<input name="arrive" placeholder="arrive 09:00"><input name="depart" placeholder="depart 09:01"></div>{% endfor %}
+<div class="row"><button>Save trip</button><a class="btn ghost" href="{{ url_for('trips') }}">Cancel</a></div></form>
+{% else %}
+<h1>Edit trip {{ trip.trip_id }}</h1><p class="sub">Change the headsign or service days, shift the whole trip, or fix a single stop time.</p>
+<form method="post" class="card" style="display:grid;gap:12px"><input type="hidden" name="csrf" value="{{ csrf }}">
+<div class="row"><label>Toward (headsign)<input name="headsign" value="{{ trip.headsign or '' }}" size="34"></label>
+<label>Service days<select name="service_id">{% for s in services %}<option {{ 'selected' if trip.service_id==s.service_id }}>{{ s.service_id }}</option>{% endfor %}</select></label>
+<label>Shift all stops (minutes)<input type="number" name="shift_minutes" value="0" style="width:120px"></label></div>
+<div class="row"><button>Save changes</button><a class="btn ghost" href="{{ url_for('trip_detail', trip_id=trip.trip_id) }}">Cancel</a></div></form>
+<h2>Stop times</h2>
+<table><tr><th>#</th><th>Station</th><th>Arrives</th><th>Departs</th><th></th></tr>
+{% for s in stops %}<tr>
+<td>{{ s.stop_sequence }}</td><td>{{ s.name }}</td>
+<td><input form="f{{ s.stop_sequence }}" name="arrive" value="{{ s.arrival_time|hhmm }}" size="6"></td>
+<td><input form="f{{ s.stop_sequence }}" name="depart" value="{{ s.departure_time|hhmm }}" size="6"></td>
+<td><button form="f{{ s.stop_sequence }}" class="ghost">Update</button></td></tr>{% endfor %}</table>
+{% for s in stops %}<form id="f{{ s.stop_sequence }}" method="post" action="{{ url_for('stop_update', trip_id=trip.trip_id, seq=s.stop_sequence) }}"><input type="hidden" name="csrf" value="{{ csrf }}"></form>{% endfor %}
+{% endif %}{% endblock %}

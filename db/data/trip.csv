@@ -1,0 +1,2787 @@
+trip_id,route_id,service_id,direction,headsign
+24177318,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177319,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177320,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177321,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177322,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177323,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177324,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177325,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177326,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177327,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177328,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177329,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177330,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177331,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177332,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177333,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177334,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177335,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177336,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177337,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177338,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177339,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177340,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177341,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177342,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177343,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177344,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177345,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177346,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177347,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177348,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177349,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177350,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177351,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177352,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177353,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177354,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177355,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177356,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177357,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177358,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177359,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177360,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177361,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177362,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177363,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177364,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177365,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177366,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177367,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177368,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177369,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177370,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177371,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177372,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177373,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177374,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177375,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177376,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177377,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177378,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177379,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177380,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177381,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177382,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177383,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177384,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177385,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177386,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177387,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177388,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177389,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177390,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177391,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177392,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177393,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177394,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177395,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177396,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177397,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177398,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177399,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177400,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177401,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177402,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177403,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177404,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177405,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177406,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177407,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177408,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177409,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177410,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177411,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177412,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177413,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177414,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177415,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177416,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177417,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177418,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177419,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177420,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177421,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177422,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177423,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177424,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177425,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177426,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177427,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177428,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177429,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177430,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177431,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177432,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177433,A,A_Saturday_1_2607-VMR_0000010,1,Priest Dr/Washington St
+24177434,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177435,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177436,A,A_Saturday_1_2607-VMR_0000010,1,Priest Dr/Washington St
+24177437,A,A_Saturday_1_2607-VMR_0000010,1,Priest Dr/Washington St
+24177438,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177439,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177440,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177441,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177442,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177443,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177444,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177445,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177446,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177447,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177448,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177449,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177450,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177451,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177452,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177453,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177454,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177455,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177456,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177457,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177458,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177459,A,A_Saturday_1_2607-VMR_0000010,1,Priest Dr/Washington St
+24177460,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177461,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177462,A,A_Saturday_1_2607-VMR_0000010,1,Priest Dr/Washington St
+24177463,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177464,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177465,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177466,A,A_Saturday_1_2607-VMR_0000010,1,Priest Dr/Washington St
+24177467,A,A_Saturday_1_2607-VMR_0000010,1,Priest Dr/Washington St
+24177468,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177469,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177470,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177471,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177472,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177473,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177474,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177475,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177476,A,A_Saturday_1_2607-VMR_0000010,1,Priest Dr/Washington St
+24177477,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177478,A,A_Saturday_1_2607-VMR_0000010,1,Washington/Central Ave
+24177479,A,A_Saturday_1_2607-VMR_0000010,1,Washington/Central Ave
+24177480,A,A_Saturday_1_2607-VMR_0000010,1,Washington/Central Ave
+24177481,A,A_Saturday_1_2607-VMR_0000010,1,Washington/Central Ave
+24177482,A,A_Saturday_1_2607-VMR_0000010,1,Washington/Central Ave
+24177483,A,A_Saturday_1_2607-VMR_0000010,0,44th St/Washington
+24177484,A,A_Saturday_1_2607-VMR_0000010,0,44th St/Washington
+24177485,A,A_Saturday_1_2607-VMR_0000010,0,44th St/Washington
+24177486,A,A_Saturday_1_2607-VMR_0000010,0,44th St/Washington
+24177487,A,A_Saturday_1_2607-VMR_0000010,0,44th St/Washington
+24177488,A,A_Saturday_1_2607-VMR_0000010,0,44th St/Washington
+24177489,A,A_Saturday_1_2607-VMR_0000010,0,44th St/Washington
+24177490,A,A_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177491,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177492,A,A_Saturday_1_2607-VMR_0000010,1,Washington/Central Ave
+24177493,A,A_Saturday_1_2607-VMR_0000010,1,Washington/Central Ave
+24177494,A,A_Saturday_1_2607-VMR_0000010,0,44th St/Washington
+24177495,A,A_Saturday_1_2607-VMR_0000010,1,Priest Dr/Washington St
+24177496,A,A_Saturday_1_2607-VMR_0000010,1,Priest Dr/Washington St
+24177497,A,A_Saturday_1_2607-VMR_0000010,0,Gilbert Rd/Main St
+24177498,A,A_Saturday_1_2607-VMR_0000010,1,Priest Dr/Washington St
+24693855,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693856,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693857,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693858,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693859,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693860,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693861,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693862,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693863,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693864,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693865,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693866,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693867,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693868,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693869,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693870,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693871,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693872,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693873,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693874,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693875,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693876,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693877,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693878,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693879,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693880,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693881,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693882,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693883,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693884,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693885,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693886,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693887,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693888,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693889,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693890,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693891,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693892,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693893,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693894,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693895,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693896,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693897,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693898,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693899,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693900,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693901,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693902,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693903,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693904,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693905,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693906,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693907,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693908,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693909,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693910,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693911,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693912,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693913,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693914,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693915,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693916,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693917,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693918,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693919,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693920,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693921,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693922,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693923,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693924,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693925,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693926,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693927,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693928,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693929,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693930,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693931,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693932,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693933,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693934,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693935,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693936,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693937,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693938,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693939,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693940,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693941,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693942,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693943,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693944,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693945,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693946,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693947,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693948,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693949,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693950,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693951,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693952,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693953,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693954,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693955,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693956,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693957,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693958,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693959,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693960,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693961,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693962,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693963,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693964,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693965,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693966,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693967,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693968,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693969,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693970,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693971,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24693972,A,A_Saturday_30_2610-VMR_0000010,1,Priest Dr/Washington St
+24693973,A,A_Saturday_30_2610-VMR_0000010,1,Priest Dr/Washington St
+24693974,A,A_Saturday_30_2610-VMR_0000010,1,Priest Dr/Washington St
+24693975,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693976,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693977,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693978,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693979,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693980,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693981,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693982,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693983,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693984,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693985,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693986,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693987,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693988,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693989,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693990,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693991,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693992,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693993,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693994,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693995,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693996,A,A_Saturday_30_2610-VMR_0000010,1,Priest Dr/Washington St
+24693997,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693998,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24693999,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24694000,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24694001,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24694002,A,A_Saturday_30_2610-VMR_0000010,1,Priest Dr/Washington St
+24694003,A,A_Saturday_30_2610-VMR_0000010,1,Priest Dr/Washington St
+24694004,A,A_Saturday_30_2610-VMR_0000010,1,Priest Dr/Washington St
+24694005,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24694006,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24694007,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24694008,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24694009,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24694010,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24694011,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24694012,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24694013,A,A_Saturday_30_2610-VMR_0000010,1,Priest Dr/Washington St
+24694014,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24694015,A,A_Saturday_30_2610-VMR_0000010,1,Washington/Central Ave
+24694016,A,A_Saturday_30_2610-VMR_0000010,1,Washington/Central Ave
+24694017,A,A_Saturday_30_2610-VMR_0000010,1,Washington/Central Ave
+24694018,A,A_Saturday_30_2610-VMR_0000010,1,Washington/Central Ave
+24694019,A,A_Saturday_30_2610-VMR_0000010,1,Washington/Central Ave
+24694020,A,A_Saturday_30_2610-VMR_0000010,0,44th St/Washington
+24694021,A,A_Saturday_30_2610-VMR_0000010,0,44th St/Washington
+24694022,A,A_Saturday_30_2610-VMR_0000010,0,44th St/Washington
+24694023,A,A_Saturday_30_2610-VMR_0000010,0,44th St/Washington
+24694024,A,A_Saturday_30_2610-VMR_0000010,0,44th St/Washington
+24694025,A,A_Saturday_30_2610-VMR_0000010,0,44th St/Washington
+24694026,A,A_Saturday_30_2610-VMR_0000010,0,44th St/Washington
+24694027,A,A_Saturday_30_2610-VMR_0000010,1,Washington/Central Ave
+24694028,A,A_Saturday_30_2610-VMR_0000010,1,Downtown Phoenix Hub
+24694029,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24694030,A,A_Saturday_30_2610-VMR_0000010,1,Washington/Central Ave
+24694031,A,A_Saturday_30_2610-VMR_0000010,0,44th St/Washington
+24694032,A,A_Saturday_30_2610-VMR_0000010,1,Priest Dr/Washington St
+24694033,A,A_Saturday_30_2610-VMR_0000010,1,Priest Dr/Washington St
+24694034,A,A_Saturday_30_2610-VMR_0000010,0,Gilbert Rd/Main St
+24694035,A,A_Saturday_30_2610-VMR_0000010,1,Priest Dr/Washington St
+24178199,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178200,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178201,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178202,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178203,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178204,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178205,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178206,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178207,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178208,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178209,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178210,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178211,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178212,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178213,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178214,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178215,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178216,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178217,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178218,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178219,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178220,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178221,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178222,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178223,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178224,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178225,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178226,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178227,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178228,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178229,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178230,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178231,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178232,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178233,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178234,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178235,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178236,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178237,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178238,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178239,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178240,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178241,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178242,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178243,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178244,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178245,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178246,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178247,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178248,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178249,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178250,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178251,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178252,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178253,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178254,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178255,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178256,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178257,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178258,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178259,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178260,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178261,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178262,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178263,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178264,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178265,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178266,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178267,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178268,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178269,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178270,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178271,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178272,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178273,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178274,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178275,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178276,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178277,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178278,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178279,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178280,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178281,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178282,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178283,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178284,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178285,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178286,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178287,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178288,A,A_Sunday_1_2607-VMR_0000001,1,Priest Dr/Washington St
+24178289,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178290,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178291,A,A_Sunday_1_2607-VMR_0000001,1,Priest Dr/Washington St
+24178292,A,A_Sunday_1_2607-VMR_0000001,1,Priest Dr/Washington St
+24178293,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178294,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178295,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178296,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178297,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178298,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178299,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178300,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178301,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178302,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178303,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178304,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178305,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178306,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178307,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178308,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178309,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178310,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178311,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178312,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178313,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178314,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178315,A,A_Sunday_1_2607-VMR_0000001,0,44th St/Washington
+24178316,A,A_Sunday_1_2607-VMR_0000001,0,44th St/Washington
+24178317,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178318,A,A_Sunday_1_2607-VMR_0000001,1,Priest Dr/Washington St
+24178319,A,A_Sunday_1_2607-VMR_0000001,1,Priest Dr/Washington St
+24178320,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178321,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178322,A,A_Sunday_1_2607-VMR_0000001,1,Priest Dr/Washington St
+24178323,A,A_Sunday_1_2607-VMR_0000001,1,Priest Dr/Washington St
+24178324,A,A_Sunday_1_2607-VMR_0000001,0,44th St/Washington
+24178325,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178326,A,A_Sunday_1_2607-VMR_0000001,0,44th St/Washington
+24178327,A,A_Sunday_1_2607-VMR_0000001,0,44th St/Washington
+24178328,A,A_Sunday_1_2607-VMR_0000001,1,Washington/Central Ave
+24178329,A,A_Sunday_1_2607-VMR_0000001,1,Washington/Central Ave
+24178330,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178331,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178332,A,A_Sunday_1_2607-VMR_0000001,1,Washington/Central Ave
+24178333,A,A_Sunday_1_2607-VMR_0000001,1,Washington/Central Ave
+24178334,A,A_Sunday_1_2607-VMR_0000001,1,Washington/Central Ave
+24178335,A,A_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178336,A,A_Sunday_1_2607-VMR_0000001,0,44th St/Washington
+24178337,A,A_Sunday_1_2607-VMR_0000001,0,Gilbert Rd/Main St
+24178338,A,A_Sunday_1_2607-VMR_0000001,1,Priest Dr/Washington St
+24694198,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694199,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694200,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694201,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694202,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694203,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694204,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694205,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694206,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694207,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694208,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694209,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694210,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694211,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694212,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694213,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694214,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694215,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694216,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694217,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694218,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694219,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694220,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694221,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694222,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694223,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694224,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694225,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694226,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694227,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694228,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694229,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694230,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694231,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694232,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694233,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694234,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694235,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694236,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694237,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694238,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694239,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694240,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694241,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694242,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694243,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694244,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694245,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694246,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694247,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694248,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694249,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694250,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694251,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694252,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694253,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694254,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694255,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694256,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694257,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694258,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694259,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694260,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694261,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694262,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694263,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694264,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694265,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694266,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694267,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694268,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694269,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694270,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694271,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694272,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694273,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694274,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694275,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694276,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694277,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694278,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694279,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694280,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694281,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694282,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694283,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694284,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694285,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694286,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694287,A,A_Sunday_30_2610-VMR_0000001,1,Priest Dr/Washington St
+24694288,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694289,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694290,A,A_Sunday_30_2610-VMR_0000001,1,Priest Dr/Washington St
+24694291,A,A_Sunday_30_2610-VMR_0000001,1,Priest Dr/Washington St
+24694292,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694293,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694294,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694295,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694296,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694297,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694298,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694299,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694300,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694301,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694302,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694303,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694304,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694305,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694306,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694307,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694308,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694309,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694310,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694311,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694312,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694313,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694314,A,A_Sunday_30_2610-VMR_0000001,1,Priest Dr/Washington St
+24694315,A,A_Sunday_30_2610-VMR_0000001,0,44th St/Washington
+24694316,A,A_Sunday_30_2610-VMR_0000001,0,44th St/Washington
+24694317,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694318,A,A_Sunday_30_2610-VMR_0000001,1,Priest Dr/Washington St
+24694319,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694320,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694321,A,A_Sunday_30_2610-VMR_0000001,1,Priest Dr/Washington St
+24694322,A,A_Sunday_30_2610-VMR_0000001,1,Priest Dr/Washington St
+24694323,A,A_Sunday_30_2610-VMR_0000001,0,44th St/Washington
+24694324,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694325,A,A_Sunday_30_2610-VMR_0000001,0,44th St/Washington
+24694326,A,A_Sunday_30_2610-VMR_0000001,0,44th St/Washington
+24694327,A,A_Sunday_30_2610-VMR_0000001,1,Washington/Central Ave
+24694328,A,A_Sunday_30_2610-VMR_0000001,1,Washington/Central Ave
+24694329,A,A_Sunday_30_2610-VMR_0000001,1,Washington/Central Ave
+24694330,A,A_Sunday_30_2610-VMR_0000001,1,Washington/Central Ave
+24694331,A,A_Sunday_30_2610-VMR_0000001,1,Washington/Central Ave
+24694332,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694333,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694334,A,A_Sunday_30_2610-VMR_0000001,1,Downtown Phoenix Hub
+24694335,A,A_Sunday_30_2610-VMR_0000001,0,44th St/Washington
+24694336,A,A_Sunday_30_2610-VMR_0000001,0,Gilbert Rd/Main St
+24694337,A,A_Sunday_30_2610-VMR_0000001,1,Priest Dr/Washington St
+24176415,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176416,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176417,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176418,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176419,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176420,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176421,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176422,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176423,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176424,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176425,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176426,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176427,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176428,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176429,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176430,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176431,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176432,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176433,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176434,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176435,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176436,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176437,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176438,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176439,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176440,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176441,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176442,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176443,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176444,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176445,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176446,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176447,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176448,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176449,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176450,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176451,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176452,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176453,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176454,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176455,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176456,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176457,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176458,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176459,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176460,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176461,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176462,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176463,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176464,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176465,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176466,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176467,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176468,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176469,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176470,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176471,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176472,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176473,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176474,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176475,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176476,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176477,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176478,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176479,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176480,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176481,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176482,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176483,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176484,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176485,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176486,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176487,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176488,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176489,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176490,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176491,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176492,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176493,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176494,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176495,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176496,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176497,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176498,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176499,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176500,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176501,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176502,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176503,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176504,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176505,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176506,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176507,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176508,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176509,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176510,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176511,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176512,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176513,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176514,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176515,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176516,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176517,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176518,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176519,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176520,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176521,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176522,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176523,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176524,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176525,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176526,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176527,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176528,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176529,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176530,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176531,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176532,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176533,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176534,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176535,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176536,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176537,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176538,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176539,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176540,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176541,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176542,A,A_Weekday_1_2607-VMR_1111100,1,Priest Dr/Washington St
+24176543,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176544,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176545,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176546,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176547,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176548,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176549,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176550,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176551,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176552,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176553,A,A_Weekday_1_2607-VMR_1111100,1,Priest Dr/Washington St
+24176554,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176555,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176556,A,A_Weekday_1_2607-VMR_1111100,1,Priest Dr/Washington St
+24176557,A,A_Weekday_1_2607-VMR_1111100,1,Priest Dr/Washington St
+24176558,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176559,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176560,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176561,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176562,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176563,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176564,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176565,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176566,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176567,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176568,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176569,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176570,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176571,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176572,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176573,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176574,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176575,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176576,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176577,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176578,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176579,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176580,A,A_Weekday_1_2607-VMR_1111100,1,Priest Dr/Washington St
+24176581,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176582,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176583,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176584,A,A_Weekday_1_2607-VMR_1111100,1,Priest Dr/Washington St
+24176585,A,A_Weekday_1_2607-VMR_1111100,1,Priest Dr/Washington St
+24176586,A,A_Weekday_1_2607-VMR_1111100,1,Priest Dr/Washington St
+24176587,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176588,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176589,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176590,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176591,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176592,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176593,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176594,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176595,A,A_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176596,A,A_Weekday_1_2607-VMR_1111100,1,Priest Dr/Washington St
+24176597,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176598,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176599,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176600,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176601,A,A_Weekday_1_2607-VMR_1111100,1,Washington/Central Ave
+24176602,A,A_Weekday_1_2607-VMR_1111100,1,Washington/Central Ave
+24176603,A,A_Weekday_1_2607-VMR_1111100,1,Washington/Central Ave
+24176604,A,A_Weekday_1_2607-VMR_1111100,1,Washington/Central Ave
+24176605,A,A_Weekday_1_2607-VMR_1111100,1,Washington/Central Ave
+24176606,A,A_Weekday_1_2607-VMR_1111100,0,44th St/Washington
+24176607,A,A_Weekday_1_2607-VMR_1111100,0,44th St/Washington
+24176608,A,A_Weekday_1_2607-VMR_1111100,0,44th St/Washington
+24176609,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24176610,A,A_Weekday_1_2607-VMR_1111100,1,Priest Dr/Washington St
+24176611,A,A_Weekday_1_2607-VMR_1111100,0,44th St/Washington
+24176612,A,A_Weekday_1_2607-VMR_1111100,1,Priest Dr/Washington St
+24176613,A,A_Weekday_1_2607-VMR_1111100,0,44th St/Washington
+24176614,A,A_Weekday_1_2607-VMR_1111100,0,44th St/Washington
+24176615,A,A_Weekday_1_2607-VMR_1111100,0,44th St/Washington
+24176616,A,A_Weekday_1_2607-VMR_1111100,0,44th St/Washington
+24176617,A,A_Weekday_1_2607-VMR_1111100,0,44th St/Washington
+24176618,A,A_Weekday_1_2607-VMR_1111100,1,Washington/Central Ave
+24176619,A,A_Weekday_1_2607-VMR_1111100,1,Washington/Central Ave
+24176620,A,A_Weekday_1_2607-VMR_1111100,1,Washington/Central Ave
+24176621,A,A_Weekday_1_2607-VMR_1111100,1,Washington/Central Ave
+24176622,A,A_Weekday_1_2607-VMR_1111100,0,44th St/Washington
+24211080,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24211081,A,A_Weekday_1_2607-VMR_1111100,0,Gilbert Rd/Main St
+24678207,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678208,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678209,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678210,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678211,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678212,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678213,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678214,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678215,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678216,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678217,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678218,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678219,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678220,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678221,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678222,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678223,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678224,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678225,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678226,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678227,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678228,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678229,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678230,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678231,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678232,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678233,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678234,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678235,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678236,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678237,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678238,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678239,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678240,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678241,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678242,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678243,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678244,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678245,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678246,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678247,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678248,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678249,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678250,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678251,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678252,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678253,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678254,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678255,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678256,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678257,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678258,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678259,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678260,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678261,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678262,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678263,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678264,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678265,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678266,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678267,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678268,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678269,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678270,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678271,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678272,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678273,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678274,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678275,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678276,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678277,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678279,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678280,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678281,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678282,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678283,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678284,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678285,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678286,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678287,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678288,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678289,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678290,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678291,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678292,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678293,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678294,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678295,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678296,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678297,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678298,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678299,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678300,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678301,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678302,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678303,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678304,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678305,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678306,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678307,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678308,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678309,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678310,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678311,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678312,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678313,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678314,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678315,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678316,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678317,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678318,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678319,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678320,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678321,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678322,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678323,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678324,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678325,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678326,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678328,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678329,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678330,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678331,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678332,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678333,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678334,A,A_Weekday_30_2610-VMR_1111100,1,Priest Dr/Washington St
+24678335,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678336,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678337,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678338,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678339,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678340,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678341,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678342,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678343,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678344,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678345,A,A_Weekday_30_2610-VMR_1111100,1,Priest Dr/Washington St
+24678346,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678347,A,A_Weekday_30_2610-VMR_1111100,1,Priest Dr/Washington St
+24678348,A,A_Weekday_30_2610-VMR_1111100,1,Priest Dr/Washington St
+24678349,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678350,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678351,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678352,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678353,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678354,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678355,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678356,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678357,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678358,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678359,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678360,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678361,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678362,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678363,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678364,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678365,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678366,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678367,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678368,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678369,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678370,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678371,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678372,A,A_Weekday_30_2610-VMR_1111100,1,Priest Dr/Washington St
+24678373,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678374,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678375,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678376,A,A_Weekday_30_2610-VMR_1111100,1,Priest Dr/Washington St
+24678377,A,A_Weekday_30_2610-VMR_1111100,1,Priest Dr/Washington St
+24678378,A,A_Weekday_30_2610-VMR_1111100,1,Priest Dr/Washington St
+24678379,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678380,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678381,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678382,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678383,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678384,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678385,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678386,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678387,A,A_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24678388,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678389,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678390,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678391,A,A_Weekday_30_2610-VMR_1111100,1,Priest Dr/Washington St
+24678392,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678393,A,A_Weekday_30_2610-VMR_1111100,1,Washington/Central Ave
+24678394,A,A_Weekday_30_2610-VMR_1111100,1,Washington/Central Ave
+24678395,A,A_Weekday_30_2610-VMR_1111100,1,Washington/Central Ave
+24678396,A,A_Weekday_30_2610-VMR_1111100,1,Washington/Central Ave
+24678397,A,A_Weekday_30_2610-VMR_1111100,1,Washington/Central Ave
+24678398,A,A_Weekday_30_2610-VMR_1111100,0,44th St/Washington
+24678399,A,A_Weekday_30_2610-VMR_1111100,0,44th St/Washington
+24678400,A,A_Weekday_30_2610-VMR_1111100,0,44th St/Washington
+24678401,A,A_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678402,A,A_Weekday_30_2610-VMR_1111100,1,Priest Dr/Washington St
+24678403,A,A_Weekday_30_2610-VMR_1111100,0,44th St/Washington
+24678404,A,A_Weekday_30_2610-VMR_1111100,1,Priest Dr/Washington St
+24678405,A,A_Weekday_30_2610-VMR_1111100,0,44th St/Washington
+24678406,A,A_Weekday_30_2610-VMR_1111100,0,44th St/Washington
+24678407,A,A_Weekday_30_2610-VMR_1111100,0,44th St/Washington
+24678408,A,A_Weekday_30_2610-VMR_1111100,0,44th St/Washington
+24678409,A,A_Weekday_30_2610-VMR_1111100,0,44th St/Washington
+24678410,A,A_Weekday_30_2610-VMR_1111100,1,Washington/Central Ave
+24678411,A,A_Weekday_30_2610-VMR_1111100,1,Washington/Central Ave
+24678412,A,A_Weekday_30_2610-VMR_1111100,1,Washington/Central Ave
+24678413,A,A_Weekday_30_2610-VMR_1111100,1,Washington/Central Ave
+24678414,A,A_Weekday_30_2610-VMR_1111100,0,44th St/Washington
+24177499,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177500,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177501,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177502,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177503,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177504,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177505,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177506,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177507,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177508,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177509,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177510,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177511,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177512,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177513,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177514,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177515,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177516,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177517,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177518,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177519,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177520,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177521,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177522,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177523,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177524,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177525,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177526,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177527,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177528,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177529,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177530,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177531,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177532,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177533,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177534,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177535,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177536,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177537,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177538,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177539,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177540,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177541,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177542,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177543,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177544,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177545,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177546,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177547,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177548,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177549,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177550,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177551,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177552,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177553,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177554,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177555,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177556,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177557,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177558,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177559,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177560,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177561,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177562,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177563,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177564,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177565,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177566,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177567,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177568,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177569,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177570,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177571,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177572,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177573,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177574,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177575,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177576,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177577,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177578,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177579,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177580,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177581,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177582,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177583,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177584,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177585,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177586,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177587,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177588,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177589,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177590,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177591,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177592,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177593,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177594,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177595,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177596,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177597,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177598,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177599,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177600,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177601,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177602,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177603,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177604,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177605,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177606,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177607,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177608,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177609,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177610,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177611,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177612,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177613,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177614,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177615,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177616,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177617,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177618,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177619,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177620,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177621,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177622,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177623,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177624,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177625,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177626,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177627,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177628,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177629,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177630,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177631,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177632,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177633,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177634,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177635,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177636,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177637,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177638,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177639,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177640,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177641,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177642,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177643,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177644,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177645,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177646,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177647,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177648,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177649,B,B_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177650,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177651,B,B_Saturday_1_2607-VMR_0000010,1,Baseline/Central Ave
+24177652,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177653,B,B_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177654,B,B_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177655,B,B_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177656,B,B_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177657,B,B_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177658,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177659,B,B_Saturday_1_2607-VMR_0000010,0,19th Ave/Dunlap
+24177660,B,B_Saturday_1_2607-VMR_0000010,0,Metro Pkwy
+24177661,B,B_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177662,B,B_Saturday_1_2607-VMR_0000010,1,Downtown Phoenix Hub
+24177663,B,B_Saturday_1_2607-VMR_0000010,0,Downtown Phoenix Hub
+24606137,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606138,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606139,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606140,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606141,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606142,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606143,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606144,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606145,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606146,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606147,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606148,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606149,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606150,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606151,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606152,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606153,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606154,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606155,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606156,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606157,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606158,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606159,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606160,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606161,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606162,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606163,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606164,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606165,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606166,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606167,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606168,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606169,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606170,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606171,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606172,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606173,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606174,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606175,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606176,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606177,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606178,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606179,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606180,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606181,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606182,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606183,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606184,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606185,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606186,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606187,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606188,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606189,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606190,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606191,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606192,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606193,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606194,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606195,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606196,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606197,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606198,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606199,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606200,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606201,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606202,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606203,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606204,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606205,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606206,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606207,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606208,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606209,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606210,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606211,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606212,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606213,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606214,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606215,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606216,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606217,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606218,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606219,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606220,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606221,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606222,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606223,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606224,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606225,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606226,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606227,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606228,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606229,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606230,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606231,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606232,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606233,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606234,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606235,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606236,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606237,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606238,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606239,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606240,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606241,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606242,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606243,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606244,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606245,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606246,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606247,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606248,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606249,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606250,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606251,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606252,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606253,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606254,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606255,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606256,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606257,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606258,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606259,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606260,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606261,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606262,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606263,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606264,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606265,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606266,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606267,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606268,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606269,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606270,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606271,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606272,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606273,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606274,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606275,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606276,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606277,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606278,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606279,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606280,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606281,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606282,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606283,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606284,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606285,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606286,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606287,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606288,B,B_Saturday_20_2610-VMR_0000010,1,Baseline/Central Ave
+24606289,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606290,B,B_Saturday_20_2610-VMR_0000010,1,Downtown Phoenix Hub
+24606291,B,B_Saturday_20_2610-VMR_0000010,1,Downtown Phoenix Hub
+24606292,B,B_Saturday_20_2610-VMR_0000010,1,Downtown Phoenix Hub
+24606293,B,B_Saturday_20_2610-VMR_0000010,1,Downtown Phoenix Hub
+24606294,B,B_Saturday_20_2610-VMR_0000010,1,Downtown Phoenix Hub
+24606295,B,B_Saturday_20_2610-VMR_0000010,1,Downtown Phoenix Hub
+24606296,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606297,B,B_Saturday_20_2610-VMR_0000010,0,19th Ave/Dunlap
+24606298,B,B_Saturday_20_2610-VMR_0000010,0,Metro Pkwy
+24606299,B,B_Saturday_20_2610-VMR_0000010,1,Downtown Phoenix Hub
+24606300,B,B_Saturday_20_2610-VMR_0000010,1,Downtown Phoenix Hub
+24606301,B,B_Saturday_20_2610-VMR_0000010,0,Downtown Phoenix Hub
+24178339,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178340,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178341,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178342,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178343,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178344,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178345,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178346,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178347,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178348,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178349,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178350,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178351,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178352,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178353,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178354,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178355,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178356,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178357,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178358,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178359,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178360,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178361,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178362,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178363,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178364,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178365,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178366,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178367,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178368,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178369,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178370,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178371,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178372,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178373,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178374,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178375,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178376,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178377,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178378,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178379,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178380,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178381,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178382,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178383,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178384,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178385,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178386,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178387,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178388,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178389,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178390,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178391,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178392,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178393,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178394,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178395,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178396,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178397,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178398,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178399,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178400,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178401,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178402,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178403,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178404,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178405,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178406,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178407,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178408,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178409,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178410,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178411,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178412,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178413,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178414,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178415,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178416,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178417,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178418,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178419,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178420,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178421,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178422,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178423,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178424,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178425,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178426,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178427,B,B_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178428,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178429,B,B_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178430,B,B_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178431,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178432,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178433,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178434,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178435,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178436,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178437,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178438,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178439,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178440,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178441,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178442,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178443,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178444,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178445,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178446,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178447,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178448,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178449,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178450,B,B_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178451,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178452,B,B_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178453,B,B_Sunday_1_2607-VMR_0000001,1,Downtown Phoenix Hub
+24178454,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178455,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178456,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178457,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178458,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178459,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178460,B,B_Sunday_1_2607-VMR_0000001,0,19th Ave/Dunlap
+24178461,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178462,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178463,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178464,B,B_Sunday_1_2607-VMR_0000001,0,Metro Pkwy
+24178465,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178466,B,B_Sunday_1_2607-VMR_0000001,1,Baseline/Central Ave
+24178467,B,B_Sunday_1_2607-VMR_0000001,0,Montebello/19th Ave
+24606873,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606874,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606875,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606876,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606877,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606878,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606879,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606880,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606881,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606882,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606883,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606884,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606885,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606886,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606887,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606888,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606889,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606890,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606891,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606892,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606893,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606894,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606895,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606896,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606897,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606898,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606899,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606900,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606901,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606902,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606903,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606904,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606905,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606906,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606907,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606908,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606909,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606910,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606911,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606912,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606913,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606914,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606915,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606916,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606917,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606918,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606919,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606920,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606921,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606922,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606923,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606924,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606925,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606926,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606927,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606928,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606929,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606930,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606931,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606932,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606933,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606934,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606935,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606936,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606937,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606938,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606939,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606940,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606941,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606942,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606943,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606944,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606945,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606946,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606947,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606948,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606949,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606950,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606951,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606952,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606953,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606954,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606955,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606956,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606957,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606958,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606959,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606960,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606961,B,B_Sunday_20_2610-VMR_0000001,1,Downtown Phoenix Hub
+24606962,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606963,B,B_Sunday_20_2610-VMR_0000001,1,Downtown Phoenix Hub
+24606964,B,B_Sunday_20_2610-VMR_0000001,1,Downtown Phoenix Hub
+24606965,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606966,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606967,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606968,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606969,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606970,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606971,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606972,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606973,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606974,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606975,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606976,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606977,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606978,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606979,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606980,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606981,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606982,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606983,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606984,B,B_Sunday_20_2610-VMR_0000001,1,Downtown Phoenix Hub
+24606985,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606986,B,B_Sunday_20_2610-VMR_0000001,1,Downtown Phoenix Hub
+24606987,B,B_Sunday_20_2610-VMR_0000001,1,Downtown Phoenix Hub
+24606988,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606989,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606990,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606991,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606992,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606993,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24606994,B,B_Sunday_20_2610-VMR_0000001,0,19th Ave/Dunlap
+24606995,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606996,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606997,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606998,B,B_Sunday_20_2610-VMR_0000001,0,Metro Pkwy
+24606999,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24607000,B,B_Sunday_20_2610-VMR_0000001,1,Baseline/Central Ave
+24607001,B,B_Sunday_20_2610-VMR_0000001,0,Montebello/19th Ave
+24176623,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176624,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176625,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176626,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176627,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176628,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176629,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176630,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176631,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176632,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176633,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176634,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176635,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176636,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176637,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176638,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176639,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176640,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176641,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176642,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176643,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176644,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176645,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176646,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176647,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176648,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176649,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176650,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176651,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176652,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176653,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176654,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176655,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176656,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176657,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176658,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176659,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176660,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176661,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176662,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176663,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176664,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176665,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176666,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176667,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176668,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176669,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176670,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176671,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176672,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176673,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176674,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176675,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176676,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176677,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176678,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176679,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176680,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176681,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176682,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176683,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176684,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176685,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176686,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176687,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176688,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176689,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176690,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176691,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176692,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176693,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176694,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176695,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176696,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176697,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176698,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176699,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176700,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176701,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176702,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176703,B,B_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176704,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176705,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176706,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176707,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176708,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176709,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176710,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176711,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176712,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176713,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176714,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176715,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176716,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176717,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176718,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176719,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176720,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176721,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176722,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176723,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176724,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176725,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176726,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176727,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176728,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176729,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176730,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176731,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176732,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176733,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176734,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176735,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176736,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176737,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176738,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176739,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176740,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176741,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176742,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176743,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176744,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176745,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176746,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176747,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176748,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176749,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176750,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176751,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176752,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176753,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176754,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176755,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176756,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176757,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176758,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176759,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176760,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176761,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176762,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176763,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176764,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176765,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176766,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176767,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176768,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176769,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176770,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176771,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176772,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176773,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176774,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176775,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176776,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176777,B,B_Weekday_1_2607-VMR_1111100,0,Downtown Phoenix Hub
+24176778,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176779,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176780,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176781,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176782,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176783,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176784,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176785,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176786,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176787,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176788,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176789,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176790,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176791,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176792,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176793,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176794,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176795,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176796,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176797,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24176798,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176799,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176800,B,B_Weekday_1_2607-VMR_1111100,0,Downtown Phoenix Hub
+24176801,B,B_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176802,B,B_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176803,B,B_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176804,B,B_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176805,B,B_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176806,B,B_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176807,B,B_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176808,B,B_Weekday_1_2607-VMR_1111100,1,Downtown Phoenix Hub
+24176809,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176810,B,B_Weekday_1_2607-VMR_1111100,0,19th Ave/Dunlap
+24176811,B,B_Weekday_1_2607-VMR_1111100,0,Montebello/19th Ave
+24176812,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176813,B,B_Weekday_1_2607-VMR_1111100,0,Metro Pkwy
+24176814,B,B_Weekday_1_2607-VMR_1111100,1,Baseline/Central Ave
+24605389,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605390,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605391,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605392,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605393,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605394,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605395,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605396,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605397,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605398,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605399,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605400,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605401,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605402,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605403,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605404,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605405,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605406,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605407,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605408,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605409,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605410,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605411,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605412,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605413,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605414,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605415,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605416,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605417,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605418,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605419,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605420,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605421,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605422,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605423,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605424,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605425,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605426,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605427,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605428,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605429,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605430,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605431,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605432,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605433,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605434,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605435,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605436,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605437,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605438,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605439,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605440,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605441,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605442,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605443,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605444,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605445,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605446,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605447,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605448,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605449,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605450,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605451,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605452,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605453,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605454,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605455,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605456,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605457,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605458,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605459,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605460,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605461,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605462,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605463,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605464,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605465,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605466,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605467,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605468,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605469,B,B_Weekday_20_2610-VMR_1111100,1,Downtown Phoenix Hub
+24605470,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605471,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605472,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605473,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605474,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605475,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605476,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605477,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605478,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605479,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605480,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605481,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605482,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605483,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605484,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605485,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605486,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605487,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605488,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605489,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605490,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605491,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605492,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605493,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605494,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605495,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605496,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605497,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605498,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605499,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605500,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605501,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605502,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605503,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605504,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605505,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605506,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605507,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605508,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605509,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605510,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605511,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605512,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605513,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605514,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605515,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605516,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605517,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605518,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605519,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605520,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605521,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605522,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605523,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605524,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605525,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605526,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605527,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605528,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605529,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605530,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605531,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605532,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605533,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605534,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605535,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605536,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605537,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605538,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605539,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605540,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605541,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605542,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605543,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605544,B,B_Weekday_20_2610-VMR_1111100,0,Downtown Phoenix Hub
+24605545,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605546,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605547,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605548,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605549,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605550,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605551,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605552,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605553,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605554,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605555,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605556,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605557,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605558,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605559,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605560,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605561,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605562,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605563,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24605564,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605565,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605566,B,B_Weekday_20_2610-VMR_1111100,0,Downtown Phoenix Hub
+24605567,B,B_Weekday_20_2610-VMR_1111100,1,Downtown Phoenix Hub
+24605568,B,B_Weekday_20_2610-VMR_1111100,1,Downtown Phoenix Hub
+24605569,B,B_Weekday_20_2610-VMR_1111100,1,Downtown Phoenix Hub
+24605570,B,B_Weekday_20_2610-VMR_1111100,1,Downtown Phoenix Hub
+24605571,B,B_Weekday_20_2610-VMR_1111100,1,Downtown Phoenix Hub
+24605572,B,B_Weekday_20_2610-VMR_1111100,1,Downtown Phoenix Hub
+24605573,B,B_Weekday_20_2610-VMR_1111100,1,Downtown Phoenix Hub
+24605574,B,B_Weekday_20_2610-VMR_1111100,1,Downtown Phoenix Hub
+24605575,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605576,B,B_Weekday_20_2610-VMR_1111100,0,19th Ave/Dunlap
+24605577,B,B_Weekday_20_2610-VMR_1111100,0,Montebello/19th Ave
+24605578,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605579,B,B_Weekday_20_2610-VMR_1111100,0,Metro Pkwy
+24605580,B,B_Weekday_20_2610-VMR_1111100,1,Baseline/Central Ave
+24177180,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177181,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177182,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177183,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177184,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177185,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177186,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177187,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177188,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177189,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177190,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177191,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177192,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177193,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177194,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177195,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177196,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177197,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177198,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177199,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177200,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177201,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177202,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177203,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177204,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177205,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177206,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177207,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177208,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177209,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177210,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177211,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177212,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177213,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177214,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177215,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177216,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177217,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177218,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177219,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177220,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177221,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177222,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177223,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177224,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177225,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177226,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177227,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177228,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177229,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177230,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177231,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177232,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177233,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177234,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177235,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177236,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177237,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177238,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177239,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177240,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177241,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177242,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177243,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177244,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177245,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177246,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177247,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177248,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177249,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177250,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177251,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177252,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177253,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177254,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177255,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177256,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177257,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177258,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177259,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177260,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177261,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177262,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177263,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177264,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177265,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177266,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177267,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177268,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177269,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177270,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177271,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177272,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177273,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177274,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177275,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177276,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177277,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177278,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177279,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177280,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177281,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177282,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177283,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177284,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177285,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177286,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177287,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177288,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177289,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177290,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177291,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177292,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177293,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177294,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177295,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177296,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177297,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177298,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177299,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177300,S,S_Saturday_1_2607-VMR_0000010,0,Marina Heights/Rio Salado
+24177301,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177302,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177303,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177304,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177305,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177306,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177307,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177308,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177309,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177310,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177311,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177312,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177313,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177314,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177315,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177316,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24177317,S,S_Saturday_1_2607-VMR_0000010,1,Apache/Dorsey
+24605818,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605819,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605820,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605821,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605822,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605823,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605824,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605825,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605826,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605827,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605828,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605829,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605830,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605831,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605832,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605833,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605834,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605835,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605836,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605837,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605838,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605839,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605840,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605841,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605842,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605843,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605844,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605845,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605846,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605847,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605848,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605849,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605850,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605851,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605852,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605853,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605854,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605855,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605856,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605857,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605858,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605859,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605860,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605861,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605862,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605863,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605864,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605865,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605866,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605867,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605868,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605869,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605870,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605871,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605872,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605873,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605874,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605875,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605876,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605877,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605878,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605879,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605880,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605881,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605882,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605883,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605884,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605885,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605886,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605887,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605888,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605889,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605890,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605891,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605892,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605893,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605894,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605895,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605896,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605897,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605898,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605899,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605900,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605901,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605902,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605903,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605904,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605905,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605906,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605907,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605908,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605909,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605910,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605911,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605912,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605913,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605914,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605915,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605916,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605917,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605918,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605919,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605920,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605921,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605922,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605923,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605924,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605925,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605926,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605927,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605928,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605929,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605930,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605931,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605932,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605933,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605934,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605935,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605936,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605937,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605938,S,S_Saturday_20_2610-VMR_0000010,0,Marina Heights/Rio Salado
+24605939,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605940,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605941,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605942,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605943,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605944,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605945,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605946,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605947,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605948,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605949,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605950,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605951,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605952,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605953,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605954,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24605955,S,S_Saturday_20_2610-VMR_0000010,1,Apache/Dorsey
+24178098,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178102,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178103,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178104,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178105,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178106,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178107,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178108,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178109,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178110,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178111,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178112,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178113,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178114,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178115,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178116,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178117,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178118,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178119,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178120,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178121,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178122,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178123,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178124,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178125,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178126,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178127,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178128,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178129,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178130,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178131,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178132,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178133,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178134,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178135,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178136,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178137,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178138,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178139,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178140,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178141,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178142,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178143,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178144,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178145,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178146,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178147,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178148,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178149,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178150,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178151,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178152,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178153,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178154,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178155,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178156,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178157,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178158,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178159,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178160,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178161,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178162,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178163,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178164,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178165,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178166,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178167,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178168,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178169,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178170,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178171,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178172,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178173,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178174,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178175,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178176,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178177,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178178,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178179,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178180,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178181,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178182,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178183,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178184,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178185,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178186,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178187,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178188,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178189,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178190,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178191,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178192,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178193,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178194,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178195,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178196,S,S_Sunday_1_2607-VMR_0000001,0,Marina Heights/Rio Salado
+24178197,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24178198,S,S_Sunday_1_2607-VMR_0000001,1,Apache/Dorsey
+24606635,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606636,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606637,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606638,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606639,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606640,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606641,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606642,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606643,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606644,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606645,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606646,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606647,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606648,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606649,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606650,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606651,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606652,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606653,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606654,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606655,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606656,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606657,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606658,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606659,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606660,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606661,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606662,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606663,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606664,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606665,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606666,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606667,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606668,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606669,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606670,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606671,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606672,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606673,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606674,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606675,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606676,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606677,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606678,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606679,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606680,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606681,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606682,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606683,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606684,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606685,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606686,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606687,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606688,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606689,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606690,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606691,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606692,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606693,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606694,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606695,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606696,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606697,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606698,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606699,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606700,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606701,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606702,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606703,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606704,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606705,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606706,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606707,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606708,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606709,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606710,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606711,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606712,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606713,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606714,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606715,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606716,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606717,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606718,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606719,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606720,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606721,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606722,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606723,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606724,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606725,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606726,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606727,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606728,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606729,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606730,S,S_Sunday_20_2610-VMR_0000001,0,Marina Heights/Rio Salado
+24606731,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24606732,S,S_Sunday_20_2610-VMR_0000001,1,Apache/Dorsey
+24176277,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176278,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176279,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176280,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176281,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176282,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176283,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176284,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176285,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176286,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176287,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176288,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176289,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176290,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176291,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176292,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176293,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176294,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176295,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176296,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176297,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176298,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176299,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176300,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176301,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176302,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176303,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176304,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176305,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176306,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176307,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176308,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176309,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176310,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176311,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176312,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176313,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176314,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176315,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176316,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176317,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176318,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176319,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176320,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176321,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176322,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176323,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176324,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176325,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176326,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176327,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176328,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176329,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176330,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176331,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176332,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176333,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176334,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176335,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176336,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176337,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176338,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176339,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176340,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176341,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176342,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176343,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176344,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176345,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176346,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176347,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176348,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176349,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176350,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176351,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176352,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176353,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176354,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176355,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176356,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176357,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176358,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176359,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176360,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176361,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176362,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176363,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176364,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176365,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176366,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176367,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176368,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176369,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176370,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176371,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176372,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176373,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176374,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176375,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176376,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176377,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176378,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176379,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176380,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176381,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176382,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176383,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176384,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176385,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176386,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176387,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176388,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176389,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176390,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176391,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176392,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176393,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176394,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176395,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176396,S,S_Weekday_1_2607-VMR_1111100,0,Marina Heights/Rio Salado
+24176397,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176398,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176399,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176400,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176401,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176402,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176403,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176404,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176405,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176406,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176407,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176408,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176409,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176410,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176411,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176412,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176413,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24176414,S,S_Weekday_1_2607-VMR_1111100,1,Apache/Dorsey
+24605043,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605044,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605045,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605046,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605047,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605048,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605049,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605050,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605051,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605052,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605053,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605054,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605055,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605056,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605057,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605058,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605059,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605060,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605061,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605062,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605063,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605064,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605065,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605066,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605067,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605068,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605069,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605070,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605071,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605072,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605073,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605074,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605075,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605076,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605077,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605078,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605079,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605080,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605081,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605082,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605083,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605084,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605085,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605086,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605087,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605088,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605089,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605090,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605091,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605092,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605093,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605094,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605095,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605096,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605097,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605098,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605099,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605100,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605101,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605102,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605103,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605104,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605105,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605106,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605107,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605108,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605109,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605110,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605111,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605112,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605113,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605114,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605115,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605116,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605117,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605118,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605119,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605120,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605121,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605122,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605123,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605124,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605125,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605126,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605127,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605128,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605129,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605130,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605131,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605132,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605133,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605134,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605135,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605136,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605137,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605138,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605139,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605140,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605141,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605142,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605143,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605144,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605145,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605146,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605147,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605148,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605149,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605150,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605151,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605152,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605153,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605154,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605155,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605156,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605157,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605158,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605159,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605160,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605161,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605162,S,S_Weekday_20_2610-VMR_1111100,0,Marina Heights/Rio Salado
+24605163,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605164,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605165,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605166,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605167,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605168,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605169,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605170,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605171,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605172,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605173,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605174,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605175,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605176,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605177,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605178,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605179,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24605180,S,S_Weekday_20_2610-VMR_1111100,1,Apache/Dorsey
+24210757,A,VMR_Weekday_2_2607-VMR_1111100,1,Priest Dr/Washington St
+24210769,A,VMR_Weekday_2_2607-VMR_1111100,1,Priest Dr/Washington St
+24678145,A,VMR_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678152,A,VMR_Weekday_30_2610-VMR_1111100,1,Priest Dr/Washington St
+24678186,A,VMR_Weekday_30_2610-VMR_1111100,0,Gilbert Rd/Main St
+24678198,A,VMR_Weekday_30_2610-VMR_1111100,1,Priest Dr/Washington St
+24692457,A,VMR_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
+24692458,A,VMR_Weekday_30_2610-VMR_1111100,1,Downtown Phoenix Hub
