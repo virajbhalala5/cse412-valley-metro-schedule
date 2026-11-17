@@ -36,8 +36,7 @@ window.showStation = function (id) {
   const groups = {};                     // line name -> layer group (legend toggles it)
   const g = n => groups[n] || (groups[n] = L.layerGroup().addTo(map));
   data.lines.forEach(Ln => {
-    const pts = Ln.stops.filter(i => st[i]).map(i => [st[i].lat, st[i].lon]);
-    L.polyline(pts, { color: "#" + Ln.color, weight: 6, opacity: .9, lineCap: "round" }).addTo(g(Ln.name));
+    L.polyline(Ln.pts, { color: "#" + Ln.color, weight: 6, opacity: .9, lineCap: "round" }).addTo(g(Ln.name));
   });
   let selected = null;
   data.stations.forEach(s => {

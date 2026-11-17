@@ -17,7 +17,7 @@ window.initSvgMap = function () {
   const lineEls = {}, dotEls = [], labelEls = [];  // lineEls[name] is a list of polylines
 
   data.lines.forEach(L => {
-    const pts = L.stops.filter(i => st[i]).map(i => st[i].x + "," + st[i].y).join(" ");
+    const pts = L.pts.map(p => (p[1] * k) + "," + (-p[0])).join(" ");
     const pl = el("polyline", { points: pts, fill: "none", stroke: "#" + L.color, "stroke-linecap": "round", "stroke-linejoin": "round", class: "ln" });
     gLines.append(pl); (lineEls[L.name] = lineEls[L.name] || []).push(pl);
   });

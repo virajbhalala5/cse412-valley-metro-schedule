@@ -84,3 +84,5 @@ a{color:#0b6f68}
 .mapwrap .legend,.mapwrap .hint{z-index:500}
 .mapwrap .legend{left:56px}
 .leaflet-container{font:inherit}
+.mapwrap{isolation:isolate;z-index:0}
+.mapwrap .hint{background:rgba(255,255,255,.88);padding:2px 8px;border-radius:6px;color:#34495e;bottom:10px;left:10px}

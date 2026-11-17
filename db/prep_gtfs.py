@@ -122,3 +122,26 @@ for i, a in enumerate(stations):
 print(f'transfers: {real} from transfers.txt, {len(transfers) - real} derived from station distance')
 write('transfers_to.csv', ['from_station_id', 'to_station_id', 'min_transfer_seconds'],
       [[a, b, s] for (a, b), s in sorted(transfers.items())])
+
+# ---- route_shape (Phase 3): the drawn track of each line, used by the map.
+# For each rail route and direction keep the most detailed shape (most points) used by its trips.
+import collections
+shape_use = collections.Counter()
+for t in rows('trips.txt'):
+    if t['route_id'] in route_ids and t.get('shape_id'):
+        shape_use[(t['route_id'], t['direction_id'], t['shape_id'])] += 1
+wanted = {k[2] for k in shape_use}
+points = collections.defaultdict(list)
+for r in rows('shapes.txt'):
+    if r['shape_id'] in wanted:
+        points[r['shape_id']].append((int(r['shape_pt_sequence']), r['shape_pt_lat'], r['shape_pt_lon']))
+best = {}
+for (rt, d, sh), n in shape_use.items():
+    score = (len(points[sh]), n)
+    if (rt, d) not in best or score > best[(rt, d)][0]:
+        best[(rt, d)] = (score, sh)
+shape_rows = []
+for (rt, d), (_, sh) in sorted(best.items()):
+    for i, (_, lat, lon) in enumerate(sorted(points[sh]), start=1):
+        shape_rows.append([rt, d, i, lat, lon])
+write('route_shape.csv', ['route_id', 'direction', 'seq', 'latitude', 'longitude'], shape_rows)

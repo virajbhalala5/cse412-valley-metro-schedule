@@ -205,7 +205,7 @@ def stations():
     rows = q("""SELECT s.station_id, s.name, s.zone_id,
                        COALESCE(string_agg(DISTINCT r.short_name, ', ' ORDER BY r.short_name), '') AS lines
                 FROM station s
-                LEFT JOIN serves sv ON sv.station_id = s.station_id
+                LEFT JOIN station_line sv ON sv.station_id = s.station_id
                 LEFT JOIN route r ON r.route_id = sv.route_id
                 WHERE s.name ILIKE %s
                 GROUP BY s.station_id ORDER BY s.name""", (f"%{term}%",))
@@ -360,19 +360,21 @@ def next_departures(station_id, day, t_iv, limit=8):
 
 @app.route("/map-data")
 def map_data():
-    """Everything the interactive line map needs, built from station and serves."""
+    """Everything the map needs: stations, and each line's real track from route_shape."""
     stations = q("""SELECT s.station_id AS id, s.name, s.latitude::float AS lat, s.longitude::float AS lon,
                            COALESCE(array_agg(DISTINCT r.short_name) FILTER (WHERE r.short_name IS NOT NULL), '{}') AS lines
-                    FROM station s LEFT JOIN serves sv ON sv.station_id = s.station_id
-                    LEFT JOIN route r ON r.route_id = sv.route_id GROUP BY s.station_id""")
-    rows = q("""SELECT r.route_id, r.short_name, r.color, sv.direction, sv.station_id
-                FROM serves sv JOIN route r ON r.route_id = sv.route_id
-                ORDER BY r.route_id, sv.direction, sv.stop_order""")
-    lines = {}   # one drawn path per route and direction (the streetcar uses different streets each way)
-    for r in rows:
+                    FROM station s LEFT JOIN station_line sl ON sl.station_id = s.station_id
+                    LEFT JOIN route r ON r.route_id = sl.route_id GROUP BY s.station_id""")
+    lines = {}   # one path per route and direction (the streetcar uses different streets each way)
+    for r in q("""SELECT r.route_id, r.short_name, r.color, sh.direction, sh.latitude::float AS lat, sh.longitude::float AS lon
+                  FROM route_shape sh JOIN route r ON r.route_id = sh.route_id
+                  ORDER BY sh.route_id, sh.direction, sh.seq"""):
         ln = lines.setdefault((r["route_id"], r["direction"]),
-                              {"name": r["short_name"], "color": r["color"], "stops": []})
-        ln["stops"].append(r["station_id"])
+                              {"name": r["short_name"], "color": r["color"], "pts": [], "stops": []})
+        ln["pts"].append([r["lat"], r["lon"]])
+    for r in q("SELECT route_id, direction, station_id FROM serves ORDER BY route_id, direction, stop_order"):
+        if (r["route_id"], r["direction"]) in lines:
+            lines[(r["route_id"], r["direction"])]["stops"].append(r["station_id"])
     return {"stations": stations, "lines": list(lines.values())}
 
 
@@ -388,7 +390,7 @@ def api_station_next(station_id):
     if not deps:                                   # nothing left today: show the first trains of the day
         deps = next_departures(station_id, date.today(), timedelta(0), 5)
         note = "first trains today"
-    lines = q("""SELECT DISTINCT r.short_name, r.color FROM serves sv JOIN route r ON r.route_id=sv.route_id
+    lines = q("""SELECT DISTINCT r.short_name, r.color FROM station_line sv JOIN route r ON r.route_id=sv.route_id
                  WHERE sv.station_id=%s ORDER BY r.short_name""", (station_id,))
     return {"id": st["station_id"], "name": st["name"], "note": note,
             "lines": [{"name": l["short_name"], "color": l["color"]} for l in lines],
@@ -438,7 +440,7 @@ def station_detail(station_id):
         t_iv = to_interval(t)
     except ValueError:
         t, t_iv = "08:00", timedelta(hours=8)
-    lines = q("""SELECT DISTINCT r.short_name, r.color, r.long_name FROM serves sv
+    lines = q("""SELECT DISTINCT r.short_name, r.color, r.long_name FROM station_line sv
                  JOIN route r ON r.route_id=sv.route_id WHERE sv.station_id=%s ORDER BY r.short_name""", (station_id,))
     transfers = q("""SELECT s.station_id, s.name, tt.min_transfer_seconds FROM transfers_to tt
                      JOIN station s ON s.station_id = tt.to_station_id

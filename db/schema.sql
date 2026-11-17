@@ -1,7 +1,7 @@
 -- CSE 412 Phase 2 - Group 23 - Transit Schedule System
 -- ER-to-relational schema (PostgreSQL). Run with:  psql -d transit -f schema.sql
 
-DROP TABLE IF EXISTS transfers_to, serves, stop_time, trip, service_calendar, station, route CASCADE;
+DROP TABLE IF EXISTS route_shape, transfers_to, serves, stop_time, trip, service_calendar, station, route CASCADE;
 
 -- Entity set Route
 CREATE TABLE route (
@@ -82,3 +82,18 @@ CREATE TABLE transfers_to (
 CREATE INDEX idx_stop_time_station_departure ON stop_time (station_id, departure_time);
 CREATE INDEX idx_trip_route   ON trip (route_id);
 CREATE INDEX idx_trip_service ON trip (service_id);
+
+-- Added in Phase 3: the drawn track of each line (from the GTFS shapes file), used by the map.
+CREATE TABLE route_shape (
+    route_id   VARCHAR(20)  NOT NULL REFERENCES route(route_id) ON DELETE CASCADE,
+    direction  SMALLINT     NOT NULL CHECK (direction IN (0, 1)),
+    seq        INTEGER      NOT NULL CHECK (seq > 0),
+    latitude   NUMERIC(9,6) NOT NULL CHECK (latitude  BETWEEN -90  AND 90),
+    longitude  NUMERIC(9,6) NOT NULL CHECK (longitude BETWEEN -180 AND 180),
+    PRIMARY KEY (route_id, direction, seq)
+);
+
+-- Added in Phase 3: which lines stop at which station, taken from the real trips (used by the app).
+CREATE VIEW station_line AS
+SELECT DISTINCT t.route_id, st.station_id
+FROM stop_time st JOIN trip t ON t.trip_id = st.trip_id;
