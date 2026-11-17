@@ -365,14 +365,34 @@ def map_data():
                            COALESCE(array_agg(DISTINCT r.short_name) FILTER (WHERE r.short_name IS NOT NULL), '{}') AS lines
                     FROM station s LEFT JOIN serves sv ON sv.station_id = s.station_id
                     LEFT JOIN route r ON r.route_id = sv.route_id GROUP BY s.station_id""")
-    rows = q("""SELECT r.route_id, r.short_name, r.color, sv.station_id
+    rows = q("""SELECT r.route_id, r.short_name, r.color, sv.direction, sv.station_id
                 FROM serves sv JOIN route r ON r.route_id = sv.route_id
-                WHERE sv.direction = 0 ORDER BY r.route_id, sv.stop_order""")
-    lines = {}
+                ORDER BY r.route_id, sv.direction, sv.stop_order""")
+    lines = {}   # one drawn path per route and direction (the streetcar uses different streets each way)
     for r in rows:
-        ln = lines.setdefault(r["route_id"], {"name": r["short_name"], "color": r["color"], "stops": []})
+        ln = lines.setdefault((r["route_id"], r["direction"]),
+                              {"name": r["short_name"], "color": r["color"], "stops": []})
         ln["stops"].append(r["station_id"])
     return {"stations": stations, "lines": list(lines.values())}
+
+
+@app.route("/api/station/<station_id>/next")
+def api_station_next(station_id):
+    st = q1("SELECT station_id, name FROM station WHERE station_id=%s", (station_id,))
+    if not st:
+        abort(404)
+    now = datetime.now()
+    t_iv = timedelta(hours=now.hour, minutes=now.minute)
+    deps = next_departures(station_id, date.today(), t_iv, 5)
+    note = "from now"
+    if not deps:                                   # nothing left today: show the first trains of the day
+        deps = next_departures(station_id, date.today(), timedelta(0), 5)
+        note = "first trains today"
+    lines = q("""SELECT DISTINCT r.short_name, r.color FROM serves sv JOIN route r ON r.route_id=sv.route_id
+                 WHERE sv.station_id=%s ORDER BY r.short_name""", (station_id,))
+    return {"id": st["station_id"], "name": st["name"], "note": note,
+            "lines": [{"name": l["short_name"], "color": l["color"]} for l in lines],
+            "deps": [{"time": hhmm(d["departure_time"]), "line": d["line"], "color": d["color"], "toward": d["headsign"]} for d in deps]}
 
 
 @app.route("/planner")

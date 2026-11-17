@@ -2,11 +2,13 @@
 <div class="hero"><h1>Valley Metro Light Rail</h1>
 <p>Explore the A Line, B Line and S Line streetcar. Click any station on the map, or jump straight to the next trains.</p>
 <div class="row"><a class="btn" href="{{ url_for('departures') }}">Next trains</a><a class="btn ghost" href="{{ url_for('planner') }}">Plan a trip</a></div></div>
-<div class="mapwrap">
-<div class="legend">{% for l in mapdata.lines %}<button data-line="{{ l.name }}" title="Click to hide or show"><i style="background:#{{ l.color }}"></i>{{ l.name }}</button>{% endfor %}</div>
+<div class="maplayout"><div class="mapwrap">
+<div class="legend">{% for l in mapdata.lines|unique(attribute='name') %}<button data-line="{{ l.name }}" title="Click to hide or show"><i style="background:#{{ l.color }}"></i>{{ l.name }}</button>{% endfor %}</div>
 <div class="maptools"><button id="zin" title="Zoom in">+</button><button id="zout" title="Zoom out">&minus;</button><button id="zreset" title="Reset" style="font-size:14px">&#8635;</button></div>
-<svg id="map" xmlns="http://www.w3.org/2000/svg"></svg><div class="tip" id="tip"></div>
-<div class="hint">Scroll to zoom, drag to move, click a station for details.</div></div>
+<div id="lmap"></div><svg id="map" xmlns="http://www.w3.org/2000/svg" style="display:none"></svg><div class="tip" id="tip"></div>
+<div class="hint">Scroll to zoom, drag to move, click a station.</div></div>
+<aside class="panel card" id="panel"><h3 style="margin:0 0 6px">Pick a station</h3>
+<p class="note">Click any dot on the map to see its next trains here. Zoom into Tempe or downtown to separate the close stations.</p></aside></div>
 <script id="mapdata" type="application/json">{{ mapdata|tojson }}</script>
 <h2>At a glance</h2>
 <div class="grid">
@@ -16,4 +18,8 @@
 <div class="grid">{% for r in routes %}<div class="card" style="border-top:5px solid #{{ r.color }}">
 <span class="pill" style="background:#{{ r.color }}">{{ r.short_name }}</span><h3 style="margin:8px 0 4px">{{ r.long_name }}</h3>
 <a href="{{ url_for('trips', route=r.route_id) }}">Browse trips &rarr;</a></div>{% endfor %}</div>
-{% endblock %}{% block scripts %}<script src="{{ url_for('static', filename='map.js') }}"></script>{% endblock %}
+{% endblock %}
+{% block scripts %}<link rel="stylesheet" href="{{ url_for('static', filename='vendor/leaflet.css') }}">
+<script src="{{ url_for('static', filename='vendor/leaflet.js') }}"></script>
+<script src="{{ url_for('static', filename='map_svg.js') }}"></script>
+<script src="{{ url_for('static', filename='map.js') }}"></script>{% endblock %}
