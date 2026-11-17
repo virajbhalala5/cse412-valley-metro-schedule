@@ -1,6 +1,6 @@
 {% extends "base.html" %}{% block body %}
 {% if mode=='new' %}
-<h1>Add a trip</h1><p class="sub">Create a new trip and its stops. Leave unused stop rows empty.</p>
+<h1>Add a trip</h1><p class="sub">Create a new trip and its stops. Use the button to add more stops.</p>
 <form method="post" class="card" style="display:grid;gap:12px"><input type="hidden" name="csrf" value="{{ csrf }}">
 <div class="row">
 <label>Trip ID<input name="trip_id" required value="{{ trip.get('trip_id','') }}" placeholder="HOL-0002"></label>
@@ -9,9 +9,10 @@
 <label>Direction<select name="direction"><option value="0">0</option><option value="1">1</option></select></label>
 <label>Toward (headsign)<input name="headsign" value="{{ trip.get('headsign','') }}"></label></div>
 <h2 style="margin:6px 0">Stops</h2>
-{% for i in range(1,7) %}<div class="stoprow"><span class="note" style="padding-top:9px">{{ i }}</span>
-<select name="station"><option value="">(none)</option>{% for s in stations %}<option value="{{ s.station_id }}">{{ s.name }}</option>{% endfor %}</select>
-<input name="arrive" placeholder="arrive 09:00"><input name="depart" placeholder="depart 09:01"></div>{% endfor %}
+<div id="stoprows">{% for i in range(1,3) %}<div class="stoprow"><span class="note num">{{ i }}</span>
+<select name="station"><option value="">(choose station)</option>{% for s in stations %}<option value="{{ s.station_id }}">{{ s.name }}</option>{% endfor %}</select>
+<input name="arrive" placeholder="arrive 09:00"><input name="depart" placeholder="depart 09:01"><button type="button" class="ghost small rm" title="Remove stop">&times;</button></div>{% endfor %}</div>
+<div><button type="button" class="ghost" id="addstop">+ Add another stop</button></div>
 <div class="row"><button>Save trip</button><a class="btn ghost" href="{{ url_for('trips') }}">Cancel</a></div></form>
 {% else %}
 <h1>Edit trip {{ trip.trip_id }}</h1><p class="sub">Change the headsign or service days, shift the whole trip, or fix a single stop time.</p>

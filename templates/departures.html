@@ -5,12 +5,13 @@
 {% for s in stations %}<option value="{{ s.station_id }}" {{ 'selected' if s.station_id==station_id }}>{{ s.name }}</option>{% endfor %}</select></label>
 <label>Date<input type="date" name="date" value="{{ day }}"></label>
 <label>After<input name="time" value="{{ t }}" size="6" placeholder="08:00"></label>
-<button>Search</button></form></div>
+<button>Search</button><button type="button" class="ghost" data-now>Now</button></form></div>
 {% if error %}<div class="flash err">{{ error }}</div>{% endif %}
 {% if station_id and not error %}
-<h2>{{ station.name if station }} on {{ day.strftime('%A %b %d, %Y') }}</h2>
+<h2>{{ station.name if station }} <span class="note">on {{ day.strftime('%A %b %d, %Y') }}</span></h2>
 {% if rows %}<table><tr><th>Departs</th><th>Line</th><th>Toward</th></tr>
 {% for r in rows %}<tr><td><b>{{ r.departure_time|hhmm }}</b></td>
 <td><span class="pill" style="background:#{{ r.color }}">{{ r.line }}</span></td><td>{{ r.headsign }}</td></tr>{% endfor %}</table>
+<p class="note"><a href="{{ url_for('station_detail', station_id=station_id) }}">Open station page &rarr;</a></p>
 {% else %}<div class="card">No departures found. The schedule may not cover that date or time.</div>{% endif %}{% endif %}
 {% endblock %}

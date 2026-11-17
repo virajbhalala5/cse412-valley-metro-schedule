@@ -150,7 +150,7 @@ def home():
                           (SELECT COUNT(*) FROM trip) trips,
                           (SELECT COUNT(*) FROM stop_time) stop_times""")
     routes = q("SELECT * FROM route ORDER BY short_name")
-    return render_template("home.html", counts=counts, routes=routes)
+    return render_template("home.html", counts=counts, routes=routes, mapdata=map_data())
 
 
 @app.route("/departures")
@@ -209,7 +209,8 @@ def stations():
                 LEFT JOIN route r ON r.route_id = sv.route_id
                 WHERE s.name ILIKE %s
                 GROUP BY s.station_id ORDER BY s.name""", (f"%{term}%",))
-    return render_template("stations.html", rows=rows, term=term)
+    colors = {r["short_name"]: r["color"] for r in q("SELECT short_name, color FROM route")}
+    return render_template("stations.html", rows=rows, term=term, colors=colors)
 
 
 @app.route("/trips")
@@ -236,7 +237,7 @@ def trips():
 
 @app.route("/trips/<trip_id>")
 def trip_detail(trip_id):
-    trip = q1("""SELECT t.*, r.short_name, r.long_name FROM trip t
+    trip = q1("""SELECT t.*, r.short_name, r.long_name, r.color FROM trip t
                  JOIN route r ON r.route_id=t.route_id WHERE trip_id=%s""", (trip_id,))
     if not trip:
         abort(404)
@@ -343,6 +344,88 @@ def trip_delete(trip_id):
     db().commit()
     flash(f"Trip {trip_id} deleted (and its {n} stop times).", "ok")
     return redirect(url_for("trips"))
+
+
+# ---------- new: map, planner, station detail ----------
+def next_departures(station_id, day, t_iv, limit=8):
+    return q(f"""
+        SELECT r.short_name AS line, r.color, tr.headsign, tr.trip_id, st.departure_time
+        FROM stop_time st
+        JOIN trip tr ON tr.trip_id = st.trip_id
+        JOIN route r ON r.route_id = tr.route_id
+        JOIN service_calendar c ON c.service_id = tr.service_id
+        WHERE st.station_id = %s AND {day_flag(day)} AND st.departure_time >= %s
+        ORDER BY st.departure_time LIMIT %s""", (station_id, day, day, t_iv, limit))
+
+
+@app.route("/map-data")
+def map_data():
+    """Everything the interactive line map needs, built from station and serves."""
+    stations = q("""SELECT s.station_id AS id, s.name, s.latitude::float AS lat, s.longitude::float AS lon,
+                           COALESCE(array_agg(DISTINCT r.short_name) FILTER (WHERE r.short_name IS NOT NULL), '{}') AS lines
+                    FROM station s LEFT JOIN serves sv ON sv.station_id = s.station_id
+                    LEFT JOIN route r ON r.route_id = sv.route_id GROUP BY s.station_id""")
+    rows = q("""SELECT r.route_id, r.short_name, r.color, sv.station_id
+                FROM serves sv JOIN route r ON r.route_id = sv.route_id
+                WHERE sv.direction = 0 ORDER BY r.route_id, sv.stop_order""")
+    lines = {}
+    for r in rows:
+        ln = lines.setdefault(r["route_id"], {"name": r["short_name"], "color": r["color"], "stops": []})
+        ln["stops"].append(r["station_id"])
+    return {"stations": stations, "lines": list(lines.values())}
+
+
+@app.route("/planner")
+def planner():
+    stations = q("SELECT station_id, name FROM station ORDER BY name")
+    a, b = request.args.get("from", ""), request.args.get("to", "")
+    day = parse_date(request.args.get("date", "")) or date.today()
+    t = request.args.get("time", "08:00")
+    rows, error, names = [], None, {}
+    if a and b:
+        if a == b:
+            error = "Pick two different stations."
+        else:
+            try:
+                t_iv = to_interval(t)
+                names = {r["station_id"]: r["name"] for r in stations if r["station_id"] in (a, b)}
+                rows = q(f"""
+                    SELECT r.short_name AS line, r.color, tr.headsign, tr.trip_id,
+                           x.departure_time AS leaves, y.arrival_time AS arrives,
+                           (y.stop_sequence - x.stop_sequence) AS stops_between
+                    FROM stop_time x
+                    JOIN stop_time y ON y.trip_id = x.trip_id AND y.stop_sequence > x.stop_sequence
+                    JOIN trip tr ON tr.trip_id = x.trip_id
+                    JOIN route r ON r.route_id = tr.route_id
+                    JOIN service_calendar c ON c.service_id = tr.service_id
+                    WHERE x.station_id = %s AND y.station_id = %s AND {day_flag(day)}
+                      AND x.departure_time >= %s
+                    ORDER BY x.departure_time LIMIT 8""", (a, b, day, day, t_iv))
+            except ValueError as e:
+                error = str(e)
+    return render_template("planner.html", stations=stations, a=a, b=b, day=day, t=t,
+                           rows=rows, error=error, names=names)
+
+
+@app.route("/stations/<station_id>")
+def station_detail(station_id):
+    st = q1("SELECT * FROM station WHERE station_id=%s", (station_id,))
+    if not st:
+        abort(404)
+    day = parse_date(request.args.get("date", "")) or date.today()
+    t = request.args.get("time", "08:00")
+    try:
+        t_iv = to_interval(t)
+    except ValueError:
+        t, t_iv = "08:00", timedelta(hours=8)
+    lines = q("""SELECT DISTINCT r.short_name, r.color, r.long_name FROM serves sv
+                 JOIN route r ON r.route_id=sv.route_id WHERE sv.station_id=%s ORDER BY r.short_name""", (station_id,))
+    transfers = q("""SELECT s.station_id, s.name, tt.min_transfer_seconds FROM transfers_to tt
+                     JOIN station s ON s.station_id = tt.to_station_id
+                     WHERE tt.from_station_id=%s ORDER BY tt.min_transfer_seconds""", (station_id,))
+    deps = next_departures(station_id, day, t_iv, 8)
+    return render_template("station_detail.html", st=st, lines=lines, transfers=transfers,
+                           deps=deps, day=day, t=t)
 
 
 init_users()

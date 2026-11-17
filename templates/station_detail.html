@@ -1,0 +1,19 @@
+{% extends "base.html" %}{% block body %}
+<h1>{{ st.name }}</h1>
+<p class="sub">{% for l in lines %}<span class="pill" style="background:#{{ l.color }}">{{ l.short_name }}</span> {% endfor %}
+&middot; {{ '%.4f'|format(st.latitude) }}, {{ '%.4f'|format(st.longitude) }}{% if st.zone_id %} &middot; zone {{ st.zone_id }}{% endif %}</p>
+<div class="two"><div>
+<div class="card"><form class="inline" method="get"><label>Date<input type="date" name="date" value="{{ day }}"></label>
+<label>After<input name="time" value="{{ t }}" size="6"></label><button>Update</button><button type="button" class="ghost" data-now>Now</button></form></div>
+<h2 style="margin-top:0">Next departures <span class="note">{{ day.strftime('%a %b %d') }}</span></h2>
+{% if deps %}<table><tr><th>Departs</th><th>Line</th><th>Toward</th></tr>
+{% for d in deps %}<tr><td><b>{{ d.departure_time|hhmm }}</b></td><td><span class="pill" style="background:#{{ d.color }}">{{ d.line }}</span></td>
+<td><a href="{{ url_for('trip_detail', trip_id=d.trip_id) }}">{{ d.headsign }}</a></td></tr>{% endfor %}</table>
+{% else %}<div class="card">No departures after that time.</div>{% endif %}</div>
+<div><h2 style="margin-top:0">Transfers nearby</h2>
+{% if transfers %}<table><tr><th>Walk to</th><th>Minimum time</th></tr>
+{% for t in transfers %}<tr><td><a href="{{ url_for('station_detail', station_id=t.station_id) }}">{{ t.name }}</a></td>
+<td>{{ (t.min_transfer_seconds/60)|round(1) }} min</td></tr>{% endfor %}</table>
+{% else %}<div class="card">No transfer connections listed for this station.</div>{% endif %}
+<p><a class="btn ghost" href="{{ url_for('planner', **{'from': st.station_id}) }}">Plan a trip from here</a></p></div></div>
+{% endblock %}

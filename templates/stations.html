@@ -1,6 +1,7 @@
 {% extends "base.html" %}{% block body %}
-<h1>Stations</h1><p class="sub">{{ rows|length }} stations</p>
-<div class="card"><form class="inline" method="get"><label>Search by name<input name="q" value="{{ term }}"></label><button>Search</button></form></div>
-<table><tr><th>Station</th><th>Lines</th><th>Zone</th><th></th></tr>
-{% for s in rows %}<tr><td>{{ s.name }}</td><td>{{ s.lines }}</td><td>{{ s.zone_id or '' }}</td>
-<td><a href="{{ url_for('departures', station=s.station_id) }}">next trains</a></td></tr>{% endfor %}</table>{% endblock %}
+<h1>Stations</h1><p class="sub" id="livecount">{{ rows|length }} stations</p>
+<div class="card"><label style="max-width:420px">Type to filter<input id="livefilter" placeholder="for example: Central" autofocus></label></div>
+<table id="livetable"><thead><tr><th>Station</th><th>Lines</th><th>Zone</th><th></th></tr></thead><tbody>
+{% for s in rows %}<tr><td><a href="{{ url_for('station_detail', station_id=s.station_id) }}">{{ s.name }}</a></td>
+<td>{% for l in s.lines.split(', ') if l %}<span class="pill" style="background:#{{ colors.get(l,'555') }}">{{ l }}</span> {% endfor %}</td>
+<td>{{ s.zone_id or '' }}</td><td><a href="{{ url_for('departures', station=s.station_id) }}">next trains</a></td></tr>{% endfor %}</tbody></table>{% endblock %}

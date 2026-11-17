@@ -1,12 +1,18 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{% block title %}Valley Metro Schedules{% endblock %}</title>
+<title>{% block title %}Valley Metro Rail Schedules{% endblock %}</title>
 <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}"></head><body>
-<header><div class="bar"><a class="brand" href="{{ url_for('home') }}">Valley Metro Rail</a>
-<nav><a href="{{ url_for('departures') }}">Next trains</a><a href="{{ url_for('summary') }}">Line summary</a>
-<a href="{{ url_for('stations') }}">Stations</a><a href="{{ url_for('trips') }}">Trips</a>
-{% if user %}<a href="{{ url_for('trip_new') }}">+ Add trip</a>{% endif %}</nav>
+{% set ep = request.endpoint %}
+<header><div class="bar"><a class="brand" href="{{ url_for('home') }}"><span class="logo"><i style="background:#1E8ECD"></i><i style="background:#D9892B"></i><i style="background:#7FA347"></i></span>Valley Metro Rail</a>
+<nav><a class="{{ 'on' if ep=='home' }}" href="{{ url_for('home') }}">Map</a>
+<a class="{{ 'on' if ep=='departures' }}" href="{{ url_for('departures') }}">Next trains</a>
+<a class="{{ 'on' if ep=='planner' }}" href="{{ url_for('planner') }}">Trip planner</a>
+<a class="{{ 'on' if ep=='summary' }}" href="{{ url_for('summary') }}">Line summary</a>
+<a class="{{ 'on' if ep in ('stations','station_detail') }}" href="{{ url_for('stations') }}">Stations</a>
+<a class="{{ 'on' if ep in ('trips','trip_detail','trip_edit') }}" href="{{ url_for('trips') }}">Trips</a>
+{% if user %}<a class="{{ 'on' if ep=='trip_new' }}" href="{{ url_for('trip_new') }}">+ Add trip</a>{% endif %}</nav>
 <div class="who">{% if user %}Hi, {{ user }}
-<form method="post" action="{{ url_for('logout') }}"><input type="hidden" name="csrf" value="{{ csrf }}"><button class="ghost" style="padding:4px 10px">Log out</button></form>
+<form method="post" action="{{ url_for('logout') }}"><input type="hidden" name="csrf" value="{{ csrf }}"><button class="ghost small">Log out</button></form>
 {% else %}<a style="color:#fff" href="{{ url_for('login') }}">Log in</a>{% endif %}</div></div></header>
 <main>{% for cat,msg in get_flashed_messages(with_categories=true) %}<div class="flash {{ cat }}">{{ msg }}</div>{% endfor %}
-{% block body %}{% endblock %}</main></body></html>
+{% block body %}{% endblock %}</main>
+<script src="{{ url_for('static', filename='app.js') }}"></script>{% block scripts %}{% endblock %}</body></html>

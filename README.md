@@ -7,9 +7,12 @@ A small web app (Flask + PostgreSQL) for browsing and managing the Valley Metro 
 (A Line, B Line, S Line streetcar). It uses the database we built in Phase 2.
 
 ## What it does
+- **Interactive line map:** the lines and stations drawn from the database. Zoom, drag, hide a line, click a station.
 - **Next trains:** pick a station, date and time and see the next 10 departures (query)
+- **Trip planner:** direct trains between two stations with ride time (query with a self-join)
 - **Line summary:** trips, stations and first/last departure per line for any day (aggregate query)
-- **Stations / Trips:** search and filter, open a trip to see all its stops (query)
+- **Stations and station pages:** live filter, next departures and walking transfers
+- **Trips:** search and filter, open a trip to see all its stops on a timeline
 - **Add trip** (insert), **edit trip** / shift times / fix one stop (update), **delete trip** (delete, stop times go with it)
 - Login is needed for add, edit and delete. Demo account: `admin` / `admin123`
 
@@ -36,7 +39,7 @@ The `app_user` table (login) is created automatically the first time the app sta
 ## Folder layout
 ```
 app.py             Flask app (all routes and SQL)
-templates/, static/   pages and styling
+templates/, static/   pages, styling, map and small scripts (no outside libraries)
 db/schema.sql      7 tables (from Phase 2)
 db/load.sql        loads the CSVs in db/data/
 db/data/           rail-only Valley Metro GTFS data as CSV

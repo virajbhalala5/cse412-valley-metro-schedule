@@ -1,0 +1,21 @@
+{% extends "base.html" %}{% block body %}
+<h1>Trip planner</h1><p class="sub">Find direct trains from one station to another.</p>
+<div class="card"><form class="inline" method="get">
+<label>From<select name="from" required><option value="">Choose...</option>
+{% for s in stations %}<option value="{{ s.station_id }}" {{ 'selected' if s.station_id==a }}>{{ s.name }}</option>{% endfor %}</select></label>
+<button type="button" class="ghost" id="swap" title="Swap stations">&#8646;</button>
+<label>To<select name="to" required><option value="">Choose...</option>
+{% for s in stations %}<option value="{{ s.station_id }}" {{ 'selected' if s.station_id==b }}>{{ s.name }}</option>{% endfor %}</select></label>
+<label>Date<input type="date" name="date" value="{{ day }}"></label>
+<label>After<input name="time" value="{{ t }}" size="6"></label>
+<button>Find trains</button><button type="button" class="ghost" data-now>Now</button></form></div>
+{% if error %}<div class="flash err">{{ error }}</div>{% endif %}
+{% if a and b and not error %}
+<h2>{{ names[a] }} &rarr; {{ names[b] }} <span class="note">on {{ day.strftime('%A %b %d, %Y') }}</span></h2>
+{% if rows %}<table><tr><th>Leaves</th><th>Arrives</th><th>Ride time</th><th>Stops</th><th>Line</th><th>Toward</th></tr>
+{% for r in rows %}{% set mins = ((r.arrives - r.leaves).total_seconds() // 60)|int %}
+<tr><td><b>{{ r.leaves|hhmm }}</b></td><td>{{ r.arrives|hhmm }}</td><td>{{ mins }} min</td><td>{{ r.stops_between }}</td>
+<td><span class="pill" style="background:#{{ r.color }}">{{ r.line }}</span></td>
+<td><a href="{{ url_for('trip_detail', trip_id=r.trip_id) }}">{{ r.headsign }}</a></td></tr>{% endfor %}</table>
+{% else %}<div class="card">No direct train found for that time. The two stations may be on different lines, or the service may have ended for the day.</div>{% endif %}{% endif %}
+{% endblock %}

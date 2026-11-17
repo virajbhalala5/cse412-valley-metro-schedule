@@ -1,13 +1,19 @@
 {% extends "base.html" %}{% block body %}
-<h1>Valley Metro Light Rail Schedules</h1>
-<p class="sub">Schedule data for the A Line, B Line and S Line streetcar, stored in PostgreSQL.</p>
+<div class="hero"><h1>Valley Metro Light Rail</h1>
+<p>Explore the A Line, B Line and S Line streetcar. Click any station on the map, or jump straight to the next trains.</p>
+<div class="row"><a class="btn" href="{{ url_for('departures') }}">Next trains</a><a class="btn ghost" href="{{ url_for('planner') }}">Plan a trip</a></div></div>
+<div class="mapwrap">
+<div class="legend">{% for l in mapdata.lines %}<button data-line="{{ l.name }}" title="Click to hide or show"><i style="background:#{{ l.color }}"></i>{{ l.name }}</button>{% endfor %}</div>
+<div class="maptools"><button id="zin" title="Zoom in">+</button><button id="zout" title="Zoom out">&minus;</button><button id="zreset" title="Reset" style="font-size:14px">&#8635;</button></div>
+<svg id="map" xmlns="http://www.w3.org/2000/svg"></svg><div class="tip" id="tip"></div>
+<div class="hint">Scroll to zoom, drag to move, click a station for details.</div></div>
+<script id="mapdata" type="application/json">{{ mapdata|tojson }}</script>
+<h2>At a glance</h2>
 <div class="grid">
 {% for k,v in [('Lines',counts.routes),('Stations',counts.stations),('Trips',counts.trips),('Stop times',counts.stop_times)] %}
 <div class="card stat"><b>{{ '{:,}'.format(v) }}</b><span>{{ k }}</span></div>{% endfor %}</div>
 <h2>Lines</h2>
-<div class="card"><table><tr><th>Line</th><th>Name</th></tr>
-{% for r in routes %}<tr><td><span class="pill" style="background:#{{ r.color }}">{{ r.short_name }}</span></td>
-<td>{{ r.long_name }} <a class="note" href="{{ url_for('trips', route=r.route_id) }}">view trips</a></td></tr>{% endfor %}</table></div>
-<div class="row"><a class="btn" href="{{ url_for('departures') }}">Find next trains</a>
-<a class="btn ghost" href="{{ url_for('trips') }}">Browse and manage trips</a></div>
-{% endblock %}
+<div class="grid">{% for r in routes %}<div class="card" style="border-top:5px solid #{{ r.color }}">
+<span class="pill" style="background:#{{ r.color }}">{{ r.short_name }}</span><h3 style="margin:8px 0 4px">{{ r.long_name }}</h3>
+<a href="{{ url_for('trips', route=r.route_id) }}">Browse trips &rarr;</a></div>{% endfor %}</div>
+{% endblock %}{% block scripts %}<script src="{{ url_for('static', filename='map.js') }}"></script>{% endblock %}
