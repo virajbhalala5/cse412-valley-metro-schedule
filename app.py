@@ -216,7 +216,7 @@ def stations():
 def trips():
     route = request.args.get("route", "")
     term = request.args.get("q", "").strip()
-    page = max(int(request.args.get("page", 1) or 1), 1)
+    page = max(request.args.get("page", 1, type=int) or 1, 1)
     per = 25
     where, params = ["(t.headsign ILIKE %s OR t.trip_id ILIKE %s)"], [f"%{term}%"] * 2
     if route:
